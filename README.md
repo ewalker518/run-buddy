@@ -16,7 +16,7 @@ A website that offers fitness training services.
 =======
 >>>>>>> 7c490e02b021b6d2050302b822c9a9c27551b47c
 ## Website
-https://lernantino.github.io/run-buddy/
+https://ewalker518.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Eric Walker
